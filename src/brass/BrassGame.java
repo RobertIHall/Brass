@@ -101,14 +101,22 @@ public class BrassGame implements Drawable
 	   return false;
    }
    
+   
+   public BrassPlayer getBrassPlayer(int id)
+	{
+		return brass_players.getPlayer(id);
+	}
+   
    public void computerPlayerTurn(int computer_player_id)
    {
 System.out.println();
 System.out.println("Computer Player: " + computer_player_id);
 		BrassComputerPlayer brass_computer_player = brass_computer_players[computer_player_id - (num_players + 1)];
 		BrassComputerPlayerAction computer_move = brass_computer_player.getBrassMove();
+		//computer_move.displayContents();
 		
 		int card_index = computer_move.getCardIndex();
+		System.out.println("The selected card index is: " + card_index);
 		selectCard(card_index);
 System.out.println("Card Selected: " + card_index);
 int brass_card_city_tech_id = getCardCityTechID(card_index);
@@ -699,7 +707,7 @@ System.out.println("Build Info Industry: " + computer_move.getIndustryID());
 		//create the gui last
 		PixelDimension gui_dimension = brass_xml.getPixelDimension("gui");
 		brass_gui = new BasicGUI(gui_dimension.getWidth(), gui_dimension.getHeight(), "Brass", "images/brass_icon.png", this);
-		 brass_computer_players[3] = new BrassControlCoalIronComputerPlayer(this, brass_board);
+		brass_computer_players[3] = new BrassAICoalStrategy(this, brass_board);
    }
    
    public void draw(Graphics g, int width, int height)

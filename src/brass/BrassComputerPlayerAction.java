@@ -16,6 +16,16 @@ class BrassComputerPlayerAction
 		return action_selected;
 	}
 	
+	public void displayContents()
+	{
+		System.out.println("inside this command are");
+		System.out.println(action_info[0]);
+		System.out.println(action_info[1]);
+		System.out.println(action_info[2]);
+		System.out.println(action_info[3]);
+		System.out.println(action_info[4]);
+	}
+	
 	public void selectBuildAction(int card_index, int city_id, int industry_id, int coal_city_id, int iron_city_id)
 	{
 		if (!action_selected)
@@ -39,6 +49,18 @@ class BrassComputerPlayerAction
 			action_info[1] = BrassActionEnum.LINK.getValue();
 			action_info[2] = link_id;
 			
+			action_selected = true;
+		}
+	}
+	
+	public void selectDoubleLinkAction(int card_index, int link_id, int link_id_2)
+	{
+		if (!action_selected)
+		{
+			action_info[0] = card_index;
+			action_info[1] = BrassActionEnum.DOUBLE_RAIL.getValue();
+			action_info[2] = link_id;
+			action_info[3] = link_id_2;
 			action_selected = true;
 		}
 	}

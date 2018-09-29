@@ -1,0 +1,5 @@
+Current issues:
+Canal Phase needs to end with minimum level 2 in iron and coal, and less importantly shipyard.
+Canal Phase needs to end with minimum 50-60 euros.
+
+Rail Phase discard logic is probably borked.

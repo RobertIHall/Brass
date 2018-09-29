@@ -1,0 +1,1138 @@
+
+<brass_pixels>
+
+   <coal_demand>
+      <dimensions>
+         <width>14</width>
+         <height>14</height>
+      </dimensions>
+
+      <center>
+         <x>126</x>
+         <y>166</y>
+      </center>
+      <center>
+         <x>126</x>
+         <y>183</y>
+      </center>
+      <center>
+         <x>126</x>
+         <y>203</y>
+      </center>
+      <center>
+         <x>126</x>
+         <y>220</y>
+      </center>
+      <center>
+         <x>126</x>
+         <y>239</y>
+      </center>
+      <center>
+         <x>126</x>
+         <y>256</y>
+      </center>
+      <center>
+         <x>126</x>
+         <y>276</y>
+      </center>
+      <center>
+         <x>126</x>
+         <y>293</y>
+      </center>
+
+   </coal_demand>
+
+   <iron_demand>
+      <dimensions>
+         <width>14</width>
+         <height>14</height>
+      </dimensions>
+
+      <center>
+         <x>147</x>
+         <y>166</y>
+      </center>
+      <center>
+         <x>147</x>
+         <y>183</y>
+      </center>
+      <center>
+         <x>147</x>
+         <y>202</y>
+      </center>
+      <center>
+         <x>147</x>
+         <y>220</y>
+      </center>
+      <center>
+         <x>147</x>
+         <y>239</y>
+      </center>
+      <center>
+         <x>147</x>
+         <y>256</y>
+      </center>
+      <center>
+         <x>147</x>
+         <y>276</y>
+      </center>
+      <center>
+         <x>147</x>
+         <y>293</y>
+      </center>
+
+   </iron_demand>
+
+   <cotton_demand_tiles>
+      <dimensions>
+         <width>54</width>
+         <height>54</height>
+      </dimensions>
+
+      <center>
+         <x>536</x>
+         <y>621</y>
+      </center>
+   </cotton_demand_tiles>
+
+   <cotton_demand_track>
+      <dimensions>
+         <width>16</width>
+         <height>16</height>
+      </dimensions>
+
+      <center>
+         <x>552</x>
+         <y>395</y>
+      </center>
+      <center>
+         <x>552</x>
+         <y>415</y>
+      </center>
+      <center>
+         <x>552</x>
+         <y>436</y>
+      </center>
+      <center>
+         <x>552</x>
+         <y>456</y>
+      </center>
+      <center>
+         <x>552</x>
+         <y>477</y>
+      </center>
+      <center>
+         <x>552</x>
+         <y>497</y>
+      </center>
+      <center>
+         <x>552</x>
+         <y>518</y>
+      </center>
+      <center>
+         <x>552</x>
+         <y>538</y>
+      </center>
+      <center>
+         <x>553</x>
+         <y>560</y>
+      </center>
+   </cotton_demand_track>
+
+   <flip>
+      <dimensions>
+         <width>7</width>
+         <height>7</height>
+      </dimensions>
+
+      <center>
+         <x>6</x>
+         <y>6</y>
+      </center>
+   </flip>
+   
+   <cubes>
+      <dimensions>
+         <width>5</width>
+         <height>5</height>
+      </dimensions>
+
+      <center>
+         <x>4</x>
+         <y>4</y>
+      </center>
+
+      <center>
+         <x>10</x>
+         <y>4</y>
+      </center>
+
+      <center>
+         <x>16</x>
+         <y>4</y>
+      </center>
+
+      <center>
+         <x>22</x>
+         <y>4</y>
+      </center>
+
+      <center>
+         <x>4</x>
+         <y>10</y>
+      </center>
+
+      <center>
+         <x>4</x>
+         <y>16</y>
+      </center>
+   </cubes>
+
+   <turn_order>
+
+      <center>
+         <x>550</x>
+         <y>54</y>
+      </center>
+      <center>
+         <x>549</x>
+         <y>78</y>
+      </center>
+      <center>
+         <x>549</x>
+         <y>104</y>
+      </center>
+      <center>
+         <x>549</x>
+         <y>128</y>
+      </center>
+
+   </turn_order>
+
+   <replace>
+      <dimensions>
+         <width>305</width>
+         <height>57</height>
+      </dimensions>
+
+      <center>
+         <x>724</x>
+         <y>29</y>
+      </center>
+   </replace>
+
+   <double_rail>
+      <dimensions>
+         <width>30</width>
+         <height>24</height>
+      </dimensions>
+
+      <center>
+         <x>643</x>
+         <y>214</y>
+      </center>
+   </double_rail>
+
+   <double_card>
+      <dimensions>
+         <width>22</width>
+         <height>22</height>
+      </dimensions>
+
+      <center>
+         <x>682</x>
+         <y>215</y>
+      </center>
+   </double_card>
+   
+   <tech_upgrade>
+      <dimensions>
+         <width>93</width>
+         <height>90</height>
+      </dimensions>
+
+      <center>
+         <x>826</x>
+         <y>102</y>
+      </center>
+   </tech_upgrade>
+   
+   <sell_cotton>
+      <dimensions>
+         <width>65</width>
+         <height>63</height>
+      </dimensions>
+
+      <center>
+         <x>626</x>
+         <y>102</y>
+      </center>
+   </sell_cotton>
+
+   <build>
+      <dimensions>
+         <width>67</width>
+         <height>112</height>
+      </dimensions>
+
+      <center>
+         <x>725</x>
+         <y>127</y>
+      </center>
+   </build>
+
+   <loans>
+      <dimensions>
+         <width>34</width>
+         <height>17</height>
+      </dimensions>
+
+      <center>
+         <x>600</x>
+         <y>219</y>
+      </center>
+
+      <center>
+         <x>722</x>
+         <y>219</y>
+      </center>
+
+      <center>
+         <x>844</x>
+         <y>219</y>
+      </center>
+   </loans>
+
+   <discard>
+      <dimensions>
+         <width>29</width>
+         <height>29</height>
+      </dimensions>
+
+      <center>
+         <x>784</x>
+         <y>212</y>
+      </center>
+   </discard>
+
+   <cancel>
+      <dimensions>
+         <width>36</width>
+         <height>36</height>
+      </dimensions>
+
+      <center>
+         <x>818</x>
+         <y>171</y>
+      </center>
+   </cancel>
+
+   <link>
+      <dimensions>
+         <width>73</width>
+         <height>35</height>
+      </dimensions>
+
+      <center>
+         <x>622</x>
+         <y>167</y>
+      </center>
+   </link>
+
+   <track>
+      <start_loc>
+         <x>322</x>
+         <y>642</y>
+      </start_loc>
+
+      <offset>
+         <x>18.90</x>
+         <y>18.30</y>
+      </offset>
+   </track>
+
+   <gui>
+      <dimensions>
+         <width>879</width>
+         <height>700</height>
+      </dimensions>
+   </gui>
+
+   <board>
+      <dimensions>
+         <width>873</width>
+         <height>655</height>
+      </dimensions>
+
+      <center>
+         <x>437</x>
+         <y>328</y>
+      </center>
+   </board>
+
+   <big_cards>
+
+      <dimensions>
+         <width>116</width>
+         <height>172</height>
+      </dimensions>
+
+      <center>
+         <x>651</x>
+         <y>329</y>
+      </center>
+
+      <center>
+         <x>795</x>
+         <y>329</y>
+      </center>
+
+   </big_cards>
+
+   <small_cards>
+
+      <dimensions>
+         <width>76</width>
+         <height>109</height>
+      </dimensions>
+
+      <center>
+         <x>45</x>
+         <y>60</y>
+      </center>
+
+      <center>
+         <x>610</x>
+         <y>492</y>
+      </center>
+
+      <center>
+         <x>686</x>
+         <y>492</y>
+      </center>
+
+      <center>
+         <x>760</x>
+         <y>492</y>
+      </center>
+
+      <center>
+         <x>835</x>
+         <y>492</y>
+      </center>
+
+      <center>
+         <x>610</x>
+         <y>601</y>
+      </center>
+
+      <center>
+         <x>686</x>
+         <y>601</y>
+      </center>
+
+      <center>
+         <x>762</x>
+         <y>601</y>
+      </center>
+
+      <center>
+         <x>838</x>
+         <y>601</y>
+      </center>
+
+   </small_cards>
+
+   <amount_spent>
+      <size>30</size>
+
+      <dimensions>
+         <width>40</width>
+         <height>40</height>
+      </dimensions>
+
+      <center>
+         <x>311</x>
+         <y>130</y>
+      </center>
+      <center>
+         <x>362</x>
+         <y>130</y>
+      </center>
+      <center>
+         <x>414</x>
+         <y>130</y>
+      </center>
+      <center>
+         <x>465</x>
+         <y>130</y>
+      </center>
+   </amount_spent>
+
+   <money>
+      <size>30</size>
+
+      <center>
+         <x>797</x>
+         <y>183</y>
+      </center>
+   </money>
+
+   <small_tokens>
+      <dimensions>
+         <width>27</width>
+         <height>27</height>
+      </dimensions>
+   </small_tokens>
+
+   <big_tokens>
+      <dimensions>
+         <width>60</width>
+         <height>61</height>
+      </dimensions>
+
+      <center>
+         <x>603</x>
+         <y>31</y>
+      </center>
+
+      <center>
+         <x>663</x>
+         <y>31</y>
+      </center>
+
+      <center>
+         <x>723</x>
+         <y>31</y>
+      </center>
+
+      <center>
+         <x>783</x>
+         <y>31</y>
+      </center>
+
+      <center>
+         <x>843</x>
+         <y>31</y>
+      </center>
+   </big_tokens>
+
+   <hat>
+      <dimensions>
+         <width>15</width>
+         <height>15</height>
+      </dimensions>
+   </hat>
+
+   <circle>
+      <dimensions>
+         <width>15</width>
+         <height>15</height>
+      </dimensions>
+   </circle>
+
+   <canals>
+      <dimensions>
+         <width>27</width>
+         <height>13</height>
+      </dimensions>
+
+<!-- Blackburn Burnley -->
+      <center>
+         <x>387</x>
+         <y>258</y>
+      </center>
+
+<!-- Blackburn Wigan -->
+      <center>
+         <x>292</x>
+         <y>315</y>
+      </center>
+
+<!-- Burnley Colne -->
+      <center>
+         <x>426</x>
+         <y>201</y>
+      </center>
+
+<!-- Bolton Bury -->
+      <center>
+         <x>377</x>
+         <y>338</y>
+      </center>
+
+<!-- Bolton Manchester -->
+      <center>
+         <x>367</x>
+         <y>392</y>
+      </center>
+
+<!-- Bury Manchester -->
+      <center>
+         <x>418</x>
+         <y>363</y>
+      </center>
+
+<!-- Lancaster Preston -->
+      <center>
+         <x>247</x>
+         <y>172</y>
+      </center>
+
+<!-- Fleetwood Preston -->
+      <center>
+         <x>212</x>
+         <y>223</y>
+      </center>
+
+<!-- Preston Wigan -->
+      <center>
+         <x>255</x>
+         <y>311</y>
+      </center>
+
+<!-- Manchester Oldham -->
+      <center>
+         <x>460</x>
+         <y>403</y>
+      </center>
+
+<!-- Manchester Stockport -->
+      <center>
+         <x>432</x>
+         <y>473</y>
+      </center>
+
+<!-- Manchester Warrington -->
+      <center>
+         <x>345</x>
+         <y>442</y>
+      </center>
+
+<!-- Liverpool Wigan -->
+      <center>
+         <x>234</x>
+         <y>391</y>
+      </center>
+
+<!-- Liverpool Ellesmere -->
+      <center>
+         <x>198</x>
+         <y>450</y>
+      </center>
+
+<!-- Ellesmere Warrington -->
+      <center>
+         <x>262</x>
+         <y>469</y>
+      </center>
+
+<!-- Oldham Rochdale -->
+      <center>
+         <x>498</x>
+         <y>341</y>
+      </center>
+
+<!-- Wigan Warrington -->
+      <center>
+         <x>279</x>
+         <y>391</y>
+      </center>
+
+<!-- Macclesfield Stockport -->
+      <center>
+         <x>440</x>
+         <y>538</y>
+      </center>
+
+<!-- Colne Yorkshire -->
+      <center>
+         <x>517</x>
+         <y>202</y>
+      </center>
+
+<!-- Rochdale Yorksire -->
+      <center>
+         <x>503</x>
+         <y>268</y>
+      </center>
+
+<!-- Ellesmere Northwich -->
+      <center>
+         <x>283</x>
+         <y>533</y>
+      </center>
+
+<!-- Northwich Midlands -->
+      <center>
+         <x>352</x>
+         <y>591</y>
+      </center>
+
+<!-- Macclesfield Midlands -->
+      <center>
+         <x>418</x>
+         <y>604</y>
+      </center>
+   </canals>
+
+   <rails>
+      <dimensions>
+         <width>27</width>
+         <height>13</height>
+      </dimensions>
+
+<!-- Blackburn Burnley -->
+      <center>
+         <x>395</x>
+         <y>265</y>
+      </center>
+
+<!-- Blackburn Wigan -->
+      <center>
+         <x>298</x>
+         <y>319</y>
+      </center>
+
+<!-- Burnley Colne -->
+      <center>
+         <x>433</x>
+         <y>207</y>
+      </center>
+
+<!-- Bolton Bury -->
+      <center>
+         <x>378</x>
+         <y>333</y>
+      </center>
+
+<!-- Bolton Manchester -->
+      <center>
+         <x>367</x>
+         <y>380</y>
+      </center>
+
+<!-- Bury Manchester -->
+      <center>
+         <x>424</x>
+         <y>364</y>
+      </center>
+
+<!-- Lancaster Preston -->
+      <center>
+         <x>259</x>
+         <y>172</y>
+      </center>
+
+<!-- Fleetwood Preston -->
+      <center>
+         <x>205</x>
+         <y>228</y>
+      </center>
+
+<!-- Preston Wigan -->
+      <center>
+         <x>263</x>
+         <y>310</y>
+      </center>
+
+<!-- Manchester Oldham -->
+      <center>
+         <x>468</x>
+         <y>406</y>
+      </center>
+
+<!-- Manchester Stockport -->
+      <center>
+         <x>437</x>
+         <y>473</y>
+      </center>
+
+<!-- Manchester Warrington -->
+      <center>
+         <x>345</x>
+         <y>419</y>
+      </center>
+
+<!-- Liverpool Wigan -->
+      <center>
+         <x>225</x>
+         <y>385</y>
+      </center>
+
+<!-- Ellesmere Warrington -->
+      <center>
+         <x>283</x>
+         <y>486</y>
+      </center>
+
+<!-- Oldham Rochdale -->
+      <center>
+         <x>506</x>
+         <y>342</y>
+      </center>
+
+<!-- Wigan Warrington -->
+      <center>
+         <x>270</x>
+         <y>391</y>
+      </center>
+
+<!-- Macclesfield Stockport -->
+      <center>
+         <x>448</x>
+         <y>538</y>
+      </center>
+
+<!-- Colne Yorkshire -->
+      <center>
+         <x>516</x>
+         <y>213</y>
+      </center>
+
+<!-- Rochdale Yorksire -->
+      <center>
+         <x>510</x>
+         <y>276</y>
+      </center>
+
+<!-- Ellesmere Northwich -->
+      <center>
+         <x>286</x>
+         <y>524</y>
+      </center>
+
+<!-- Northwich Midlands -->
+      <center>
+         <x>359</x>
+         <y>586</y>
+      </center>
+
+<!-- Macclesfield Midlands -->
+      <center>
+         <x>431</x>
+         <y>604</y>
+      </center>
+
+<!-- Barrow Lancaster -->
+      <center>
+         <x>200</x>
+         <y>59</y>
+      </center>
+
+<!-- Blackburn Preston -->
+      <center>
+         <x>302</x>
+         <y>278</y>
+      </center>
+
+<!-- Burnley Bury -->
+      <center>
+         <x>415</x>
+         <y>280</y>
+      </center>
+
+<!-- Bury Rochdale -->
+      <center>
+         <x>451</x>
+         <y>307</y>
+      </center>
+
+<!-- Blackburn Bolton -->
+      <center>
+         <x>337</x>
+         <y>309</y>
+      </center>
+
+<!-- Bolton Wigan -->
+      <center>
+         <x>301</x>
+         <y>362</y>
+      </center>
+
+<!-- Liverpool Warrington -->
+      <center>
+         <x>245</x>
+         <y>411</y>
+      </center>
+
+<!-- Birkenhead Ellesmere -->
+      <center>
+         <x>185</x>
+         <y>483</y>
+      </center>
+
+<!-- Lancaster Scotland -->
+      <center>
+         <x>276</x>
+         <y>68</y>
+      </center>
+
+<!-- Preston Blackpool -->
+      <center>
+         <x>206</x>
+         <y>258</y>
+      </center>
+
+<!-- Preston Southport -->
+      <center>
+         <x>235</x>
+         <y>297</y>
+      </center>
+
+<!-- Wigan Southport -->
+      <center>
+         <x>219</x>
+         <y>336</y>
+      </center>
+
+<!-- Liverpool Southport -->
+      <center>
+         <x>179</x>
+         <y>336</y>
+      </center>
+   </rails>
+
+   <cities>
+      <dimensions>
+         <width>24</width>
+         <height>24</height>
+      </dimensions>
+
+<!-- Barrow -->
+      <center>
+         <x>129</x>
+         <y>93</y>
+      </center>
+
+      <center>
+         <x>157</x>
+         <y>93</y>
+      </center>
+
+<!-- Birkenhead -->
+      <center>
+         <x>168</x>
+         <y>432</y>
+      </center>
+
+<!-- Blackburn -->
+      <center>
+         <x>346</x>
+         <y>254</y>
+      </center>
+
+      <center>
+         <x>332</x>
+         <y>281</y>
+      </center>
+
+      <center>
+         <x>361</x>
+         <y>281</y>
+      </center>
+
+<!-- Bolton -->
+      <center>
+         <x>320</x>
+         <y>338</y>
+      </center>
+
+      <center>
+         <x>348</x>
+         <y>338</y>
+      </center>
+
+      <center>
+         <x>335</x>
+         <y>366</y>
+      </center>
+
+<!-- Burnley -->
+      <center>
+         <x>393</x>
+         <y>233</y>
+      </center>
+
+      <center>
+         <x>421</x>
+         <y>233</y>
+      </center>
+
+<!-- Bury -->
+      <center>
+         <x>406</x>
+         <y>332</y>
+      </center>
+
+      <center>
+         <x>435</x>
+         <y>332</y>
+      </center>
+
+<!-- Colne -->
+      <center>
+         <x>462</x>
+         <y>191</y>
+      </center>
+
+      <center>
+         <x>490</x>
+         <y>191</y>
+      </center>
+
+<!-- Ellesmere -->
+      <center>
+         <x>243</x>
+         <y>501</y>
+      </center>
+
+<!-- Fleetwood -->
+      <center>
+         <x>178</x>
+         <y>193</y>
+      </center>
+
+<!-- Lancaster -->
+      <center>
+         <x>241</x>
+         <y>120</y>
+      </center>
+
+      <center>
+         <x>270</x>
+         <y>120</y>
+      </center>
+
+<!-- Liverpool -->
+      <center>
+         <x>170</x>
+         <y>366</y>
+      </center>
+
+      <center>
+         <x>199</x>
+         <y>366</y>
+      </center>
+
+      <center>
+         <x>170</x>
+         <y>394</y>
+      </center>
+
+      <center>
+         <x>199</x>
+         <y>394</y>
+      </center>
+
+<!-- Macclesfield -->
+      <center>
+         <x>422</x>
+         <y>576</y>
+      </center>
+
+      <center>
+         <x>451</x>
+         <y>576</y>
+      </center>
+
+<!-- Manchester -->
+      <center>
+         <x>412</x>
+         <y>397</y>
+      </center>
+
+      <center>
+         <x>398</x>
+         <y>425</y>
+      </center>
+
+      <center>
+         <x>427</x>
+         <y>425</y>
+      </center>
+
+      <center>
+         <x>413</x>
+         <y>453</y>
+      </center>
+
+<!-- Oldham -->
+      <center>
+         <x>467</x>
+         <y>375</y>
+      </center>
+
+      <center>
+         <x>494</x>
+         <y>375</y>
+      </center>
+
+<!-- Preston -->
+      <center>
+         <x>257</x>
+         <y>232</y>
+      </center>
+
+      <center>
+         <x>244</x>
+         <y>261</y>
+      </center>
+
+      <center>
+         <x>272</x>
+         <y>261</y>
+      </center>
+
+<!-- Rochdale -->
+      <center>
+         <x>493</x>
+         <y>311</y>
+      </center>
+
+      <center>
+         <x>521</x>
+         <y>311</y>
+      </center>
+
+      <center>
+         <x>549</x>
+         <y>311</y>
+      </center>
+
+<!-- Stockport -->
+      <center>
+         <x>431</x>
+         <y>505</y>
+      </center>
+
+      <center>
+         <x>458</x>
+         <y>504</y>
+      </center>
+
+<!-- Warrington -->
+      <center>
+         <x>294</x>
+         <y>420</y>
+      </center>
+
+      <center>
+         <x>294</x>
+         <y>448</y>
+      </center>
+
+<!-- Wigan -->
+      <center>
+         <x>239</x>
+         <y>364</y>
+      </center>
+
+      <center>
+         <x>267</x>
+         <y>364</y>
+      </center>
+
+   </cities>
+
+</brass_pixels>

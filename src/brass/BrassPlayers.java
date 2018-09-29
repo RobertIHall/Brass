@@ -241,6 +241,14 @@ class BrassPlayers
 		return brass_player.getSelectedToken(x, y);
 	}
 	
+	
+	public BrassPlayer getPlayer(int player_id)
+	{
+		BrassPlayer brass_player = brass_players.get(player_id - 1);
+		return brass_player;
+	}
+	
+	
 	public void cancelCardSelection()
 	{
 		BrassPlayer current_player = brass_players.get(active_player_id - 1);
